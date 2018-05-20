@@ -8,3 +8,4 @@ Storing links that I found useful, engaging and awesome!
 * [WTF are Merkle Trees?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
 * [ML Crashcourse by Google](https://developers.google.com/machine-learning/crash-course/)
 * [How to run a successful hackathon (guide)](https://hackathon.guide)
+* [The magic behind configure, make and make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
