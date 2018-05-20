@@ -7,3 +7,4 @@ Storing links that I found useful, engaging and awesome!
 * [Learn Data Structures from fundamentals to advance by Codechef](https://www.codechef.com/certification/prepare)
 * [WTF are Merkle Trees?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3)
 * [ML Crashcourse by Google](https://developers.google.com/machine-learning/crash-course/)
+* [How to run a successful hackathon (guide)](https://hackathon.guide)
