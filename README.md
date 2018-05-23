@@ -9,3 +9,4 @@ Storing links that I found useful, engaging and awesome!
 * [ML Crashcourse by Google](https://developers.google.com/machine-learning/crash-course/)
 * [How to run a successful hackathon (guide)](https://hackathon.guide)
 * [The magic behind configure, make and make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
+* [How to build your profile as a developer by Codementor](https://www.codementor.io/npostolovski/building-your-profile-as-a-developer-jji1sc4dn?utm_content=posts&amp;utm_source=sendgrid&amp;utm_medium=email&amp;utm_term=post-jji1sc4dn&amp;utm_campaign=newsletter20180523)
