@@ -1,6 +1,7 @@
-# awesome-links
+# awesome-dev-links
 Storing links that I found useful, engaging and awesome!
 
+* [World's most popular Data Structure course-work/room (youtube channel)](https://www.youtube.com/user/cs50tv/featured)
 * [DevOps Bootcamp by Oregon State University Professors](https://devopsbootcamp.osuosl.org/)
 * [Easy Tensorflow: Learning while doing](http://easy-tensorflow.com)
 * [IMAD: India's Biggest MOOC](https://www.imad.tech/)
@@ -11,3 +12,5 @@ Storing links that I found useful, engaging and awesome!
 * [The magic behind configure, make and make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
 * [How to build your profile as a developer by Codementor](https://www.codementor.io/npostolovski/building-your-profile-as-a-developer-jji1sc4dn?utm_content=posts&amp;utm_source=sendgrid&amp;utm_medium=email&amp;utm_term=post-jji1sc4dn&amp;utm_campaign=newsletter20180523)
 * [Blockchain 101](https://www.blockcypher.com/dev/intro/)
+* [Online Book Series - You don't know JS](https://github.com/getify/You-Dont-Know-JS/)
+* [Reverse Engineering React (video series)](https://vimeo.com/album/3930691)
