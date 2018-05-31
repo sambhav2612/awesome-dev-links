@@ -12,3 +12,7 @@ Storing links that I found useful, engaging and awesome!
 ## Contribution Guidelines
 
 Contributions are welcome via PRs! If you find anything misleading, dead or not-relevant to this repo, do send use a PR. The contribution guideline [(here)](https://github.com/sambhav2612/awesome-dev-links/blob/master/CONTRIBUTING.md) should help you in understanding the workflow of this repo. 
+
+### License
+
+© 2018 Sambhav Jain under GPL-v3.0
