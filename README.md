@@ -17,6 +17,7 @@ Found some awesome links related to dev? Add them here!
 * [Build an **undo seqence in text editors** using stack with JS (Gist)](https://gist.github.com/primaryobjects/41e7fed710730f53ddfdd3fd0451019d)
 * [Wanna build **language agnostics?**](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler/1672#1672)
 * [What the fuck is **Branch Prediction Problem?** (Most upvoted answer to the most upvoted question on Stackoverflow)](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array/11227902#11227902)
+* [Build a **browser extension in React.js**](https://medium.com/@gilfink/building-a-chrome-extension-using-react-c5bfe45aaf36)
 
 ## Contribution Guidelines
 
