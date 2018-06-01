@@ -1,6 +1,6 @@
-# awesome-links
-Storing links that I found useful, engaging and awesome!
-
+# awesome-dev-links
+Found some awesome links related to dev? Add them here! 
+ 
 * [DevOps Bootcamp by Oregon State University Professors](https://devopsbootcamp.osuosl.org/)
 * [Easy Tensorflow: Learning while doing](http://easy-tensorflow.com)
 * [IMAD: India's Biggest MOOC](https://www.imad.tech/)
