@@ -1,6 +1,8 @@
 # awesome-dev-links
 Found some awesome links related to dev? Add them here! 
 
+> As featured on [Product Hunt](https://www.producthunt.com/posts/awesome-dev-links/) :sunglasses:.
+
 * [World's best rated Data Structure course-work/room - **CS50** *(YouTube Channel)*](https://www.youtube.com/user/cs50tv/featured)
 * [**DevOps Bootcamp** by Oregon State University Professors](https://devopsbootcamp.osuosl.org/)
 * [**Easy Tensorflow**: Learning while doing](http://easy-tensorflow.com)
@@ -22,6 +24,7 @@ Found some awesome links related to dev? Add them here!
 * [**WTF is JSX**](https://jasonformat.com/wtf-is-jsx/)
 * [You should **never write your own databases**, but why not?](https://medium.com/@terrycrowley/never-write-your-own-database-736f704c780)
 * [Remote OK: Find **remote dev jobs** *(UNSPONSORED)*](https://remoteok.io/)
+* [Complete list of **Emojis in Markdown** :heart_eyes:](https://gist.github.com/rxaviers/7360908)
 
 ## Contribution Guidelines
 
