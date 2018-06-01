@@ -25,6 +25,7 @@ Found some awesome links related to dev? Add them here!
 * [You should **never write your own databases**, but why not?](https://medium.com/@terrycrowley/never-write-your-own-database-736f704c780)
 * [Remote OK: Find **remote dev jobs** *(UNSPONSORED)*](https://remoteok.io/)
 * [Complete list of **Emojis in Markdown** :heart_eyes:](https://gist.github.com/rxaviers/7360908)
+* [Cool links to awesome PWAs](https://pwa.rocks/)
 
 ## Contribution Guidelines
 
