@@ -6,6 +6,8 @@ To add new links, go the `add-new-links` branch from root of repo a.k.a. `master
 
 `* [LINK-TEXT](LINK)`
 
+If you could, add something in brackets after the link text such as guide/video series/youtube playlist-channel/github gist series, etc. This would help a new user to understand the repo. Therefore, any link without anything in brackets => () would come under articles.  
+
 ***Any violation of the above rules/suggestions would directly result in immediate rejection of the pull request from the repo to be even considered for merging, howsoever or whatsoever great links it had.***
 
 We'd try our best to moderate and merge reviewed PRs to the `master` branch by the EOD of each week or earliest if necessary or possible. 
