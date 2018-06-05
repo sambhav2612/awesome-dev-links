@@ -3,7 +3,7 @@ Found some awesome links related to dev? Add them here!
 
 > As featured on [Product Hunt](https://www.producthunt.com/posts/awesome-dev-links/) :sunglasses:.
 
-* [World's best rated Data Structure course-work/room - **CS50** *(YouTube Channel)*](https://www.youtube.com/user/cs50tv/featured)
+* [World's best rated Data Structure course-work/room - **CS50** *(YouTube Playlist)*](https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
 * [**DevOps Bootcamp** by Oregon State University Professors](https://devopsbootcamp.osuosl.org/)
 * [**Easy Tensorflow**: Learning while doing](http://easy-tensorflow.com)
 * [**IMAD**: India's Biggest MOOC](https://www.imad.tech/)
