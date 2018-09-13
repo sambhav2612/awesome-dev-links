@@ -20,7 +20,7 @@ Found some awesome links related to dev? Add them here!
 * [Wanna build **language agnostics?**](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler/1672#1672)
 * [Do you know what a **Branch Prediction Problem** is? *(Most upvoted answer to the most upvoted question on Stackoverflow)*](https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array/11227902#11227902)
 * [Build a **browser extension in React.js**](https://medium.com/@gilfink/building-a-chrome-extension-using-react-c5bfe45aaf36)
-* [Hav you ever wondered about the **RFC (3161) Timestamp Protocol?**](https://tools.ietf.org/html/rfc3161)
+* [Have you ever wondered about the **RFC (3161) Timestamp Protocol?**](https://tools.ietf.org/html/rfc3161)
 * [**WTF is JSX**](https://jasonformat.com/wtf-is-jsx/)
 * [You should **never write your own databases**, but why not?](https://medium.com/@terrycrowley/never-write-your-own-database-736f704c780)
 * [Remote OK: Find **remote dev jobs** *(UNSPONSORED)*](https://remoteok.io/)
