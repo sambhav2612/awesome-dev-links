@@ -29,6 +29,8 @@ Found some awesome links related to dev? Add them here!
 * [Build 30 projects in 30 days with **Vanilla JS** by *Wes Bos (UNSPONSORED)*](https://javascript30.com/)
 * [**Learn Go** with 20 Gophercises](https://gophercises.com/)
 * [What is an SLP - **S**ingle **L**ayer **P**erceptron in Deep Learning?](http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html)
+* [What the heck is Programming Language Theory and why is it important?](https://mpc.sh/blog/a-gentle-intro-to-plt/)
+* [Train a neural network to predict from webcam data using **Tensorflow.js**](https://js.tensorflow.org/tutorials/webcam-transfer-learning.html)
 
 ## Contribution Guidelines
 
